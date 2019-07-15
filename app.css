@@ -1,0 +1,61 @@
+body{
+	background-image: url("img/thickForest1.jpg");
+	background-size:cover;
+	background-position: center;
+}
+
+html{
+	height: 100%;
+}
+#content {
+	text-align: center;
+	padding-top:20%;
+	padding-bottom: 5%;
+	text-shadow: 0px 4px 3px black,
+				 0px 8px 13px green,
+				 0px 18px 23px yellow;
+}
+
+h1,h3, button {
+	font-family:lato;
+	color:rgba(0.2,0.3,0.4,0.6);
+
+}
+h1{
+	font-weight: 700;
+	font-size:5em;
+}
+hr{
+	width:400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom:1px solid rgba(0,0,0,0.2);
+}
+
+#footer{
+	padding-top:5px;
+}
+
+/* /* Font awesome style
+
+.fa{
+	padding:5px;
+	font-size: 30px;
+	width:30px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%
+}
+
+.fa:hover {
+	opacity: 0.6;
+}
+
+.fa-facebook {
+	background: #3b5998;
+	color: white;
+}
+
+.fa-tweeter{
+	background: #55acee;
+}
+*/
